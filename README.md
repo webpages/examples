@@ -1,6 +1,6 @@
 # Example applications
 
-**Build on WebPages framework**
+> Build on [WebPages framework](https://github.com/webpages/webpages)
 
 You can clone this repository `git clone git@github.com:webpages/examples.git`, install all dependencies `pip install -r requirements.txt` and then start development web server `python main.py`.
 
